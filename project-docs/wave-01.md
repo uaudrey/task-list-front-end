@@ -2,15 +2,6 @@
 
 **Learn Topics: React Components, Props, and State & Event Handling required for this wave**
 
-## Setup
-
-Use the following steps to get started:
-
-1. One team member should fork and clone the repository.
-1. Add other team member(s) as collaborators in GitHub
-1. Run `yarn install` to install dependencies.
-1. Run `yarn start` to run the local development server.
-
 ## State & Event Handling
 
 In Wave 01, we will explore the starter code for Task List Front End.
